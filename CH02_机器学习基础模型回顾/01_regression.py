@@ -121,3 +121,6 @@ print(reg_svr.score(X,Y))
 根据AIC准则定义向前逐步回归进行变量筛选
 """
 
+#定义向前逐步回归函数
+def forward_select(data,target):
+    pass
